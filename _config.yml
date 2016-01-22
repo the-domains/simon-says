@@ -1,0 +1,28 @@
+name: 'simon says '
+favicon: null
+layout_spectrum: 0.30704881460405886
+typography_spectrum: 0.5783084009308368
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5096171472687274
+  lightness: 0.3202683499548584
+  saturation: 0.37593697546981275
+  rhythmicContrast: 0.4725584133993834
+purpose: []
